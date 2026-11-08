@@ -1,0 +1,9 @@
+tensorflow>=2.16,<2.21
+streamlit>=1.30
+numpy
+pillow
+# only needed for the training notebook
+matplotlib
+seaborn
+scikit-learn
+plotly

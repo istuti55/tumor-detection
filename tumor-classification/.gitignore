@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Dataset (download separately, see README)
+MIR Images/
+
+# Trained model (create with train_model.ipynb, see README)
+model.h5
+model.keras
